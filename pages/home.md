@@ -1,6 +1,6 @@
 ---
 title: Eleventy Sveltia CMS Starter
-date: 2016-01-01T00:00:00.000Z
+date: 2026-08-03T21:07
 permalink: /
 eleventyNavigation:
   key: home
